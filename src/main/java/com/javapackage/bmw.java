@@ -14,4 +14,7 @@ public class bmw  extends AbstractClass{
     void bmw_method_2(){
         System.out.println("in BMW class using bmw_method_2 ");
     }
+    void bmw_method_4(){
+        System.out.println("in BMW class using bmw_method_4 ");
+    }
 }
